@@ -1,0 +1,37 @@
+body{
+    background-color: palegreen;
+}
+.container{
+    max-width: 1180px;
+    display: flex;
+    justify-content: center;
+    padding: 300px 300px;
+}
+.left {
+    padding-right: 100px;
+}
+.heading-one {
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.heading-two {
+
+
+}
+.right {
+    border-radius: 100px solid white;
+background:#fff;
+padding: 50px 100px;
+}
+input{
+    padding: 10px 20px;
+}
+.ground {
+  width: 205px;
+  padding: 1px 20px;
+  background-color: blue;
+}
+.middle{
+    background-color: red;
+    box-shadow: 5px;
+}
